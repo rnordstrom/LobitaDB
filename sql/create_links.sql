@@ -1,0 +1,5 @@
+CREATE TABLE `links` (
+  `url` varchar(250) NOT NULL,
+  `id` int NOT NULL AUTO_INCREMENT,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
